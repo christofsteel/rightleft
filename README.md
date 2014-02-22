@@ -1,4 +1,13 @@
-rightleft
-=========
+The rightleft package
+=====================
 
-A latex package to randomize the direction of ightarrow and \leftarrow
+This package randomizes the output of \left- and \rightarrows.
+In addition to that it allows you to use \rightleftarrow instead of
+\leftrightarrow.
+
+Usage
+-----
+
+Just add \usepackage{rightleft} to your preamble and dont rely to much on
+the correct direction of arrows.
+
